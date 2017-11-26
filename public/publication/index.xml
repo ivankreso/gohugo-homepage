@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Ivan Krešo</title>
+    <link>https://ivankreso.github.io/publication/</link>
+    <description>Recent content in Publications on Ivan Krešo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Ivan Krešo</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ladder-style DenseNets for Semantic Segmentation of Large Natural Images</title>
+      <link>https://ivankreso.github.io/publication/ladder-densenet/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivankreso.github.io/publication/ladder-densenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Scale Invariance for Semantic Segmentation</title>
+      <link>https://ivankreso.github.io/publication/scale-invariance/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivankreso.github.io/publication/scale-invariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Egomotion Estimation by Correcting the Calibration Bias</title>
+      <link>https://ivankreso.github.io/publication/calibration-bias/</link>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivankreso.github.io/publication/calibration-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel georeferenced dataset for stereo visual odometry</title>
+      <link>https://ivankreso.github.io/publication/visual-odometry/</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivankreso.github.io/publication/visual-odometry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
