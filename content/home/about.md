@@ -33,4 +33,4 @@ weight = 5
 
 I am a PhD student in computer vision and teaching assistant at University of Zagreb.
 My PhD topic is focused on semantic segmentation aka scene parsing.\\
-You can find my CV [here](ss).
+You can find my CV [here](files/pdf/CV.pdf).
